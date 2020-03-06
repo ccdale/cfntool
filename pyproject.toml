@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "cfntool"
-version = "0.2.1"
-description = ""
-authors = ["ccdale <chris.allison@hivehome.com>"]
+version = "0.2.2"
+description = "Tool to Install and Delete Cloudformation stacks easily."
+authors = ["Chris Allison <chris.charles.allison@gmail.com>"]
+license = "GPL-3.0-or-later"
+readme = "README.rst"
+repository = "https://github.com/ccdale/cfntool"
 
 [tool.poetry.dependencies]
 python = "^3.8"
